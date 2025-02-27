@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Fellipe Santos, tenho 23 anos e sou natural de São Paulol. 🎨 Front-End Developer em formação | 💡 Apaixonado por tecnologia e design
+Me chamo Fellipe Santos, tenho 23 anos e sou natural de São Paulol. 🎨 Front-End Developer em formação | 💡 Apaixonado por tecnologia
 
 📚 Estudando Front-End de forma autodidata, aprimorando minhas habilidades com cursos da Udemy e projetos práticos. Sempre em busca de aprendizado e evolução para entrar no mercado de tecnologia!
 
